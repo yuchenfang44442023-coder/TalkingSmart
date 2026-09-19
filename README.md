@@ -46,3 +46,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/yuchenfang444442023-coder/TalkingSmart.git
 cd TalkingSmart
+## Demo
+
+![TalkingSmart Demo](public/demo.png)
