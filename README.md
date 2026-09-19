@@ -46,6 +46,38 @@ Clone the repository:
 ```bash
 git clone https://github.com/yuchenfang444442023-coder/TalkingSmart.git
 cd TalkingSmart
+```
+
 ## Demo
 
-![TalkingSmart Demo](public/demo.png)
+![TalkingSmart Demo](./public/demo.png)
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Create a local environment file:
+
+```text
+.env.local
+```
+
+Add your own OpenAI API key:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:3000
+```
